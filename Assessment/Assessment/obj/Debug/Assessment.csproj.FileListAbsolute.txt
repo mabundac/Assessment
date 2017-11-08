@@ -1,0 +1,9 @@
+C:\Users\chris.mabunda\Documents\CHRIS\Orderwise\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\chris.mabunda\Documents\CHRIS\Orderwise\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\chris.mabunda\Documents\CHRIS\Orderwise\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\chris.mabunda\Documents\CHRIS\Orderwise\Assessment\Assessment\obj\Debug\Assessment.csprojResolveAssemblyReference.cache
+C:\Users\chris.mabunda\Documents\CHRIS\Orderwise\Assessment\Assessment\obj\Debug\Assessment.Form1.resources
+C:\Users\chris.mabunda\Documents\CHRIS\Orderwise\Assessment\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+C:\Users\chris.mabunda\Documents\CHRIS\Orderwise\Assessment\Assessment\obj\Debug\Assessment.csproj.GenerateResource.Cache
+C:\Users\chris.mabunda\Documents\CHRIS\Orderwise\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\chris.mabunda\Documents\CHRIS\Orderwise\Assessment\Assessment\obj\Debug\Assessment.pdb
